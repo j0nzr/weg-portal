@@ -1,0 +1,3 @@
+Einstellungen die in Dolibarr vorgenommen wurden:
+    - Einrichten der Stammdaten
+    - Modul aktiviert: Tickets; REST API
